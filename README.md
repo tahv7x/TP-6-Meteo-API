@@ -30,4 +30,4 @@ Une application Android native développée en Java qui permet aux utilisateurs 
 - **Build System** : Gradle (Kotlin DSL)
 ## Screenshot De Application
 
-<img src = "Screenshot_20260117_172828.png">
+<img src = "Screenshot_20260117_172828.png" width = "400">
